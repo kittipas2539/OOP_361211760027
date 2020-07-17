@@ -7,7 +7,7 @@ public class HelloWorld {
         System.out.println("Hello World !!!");
         System.out.println("kittipas chanapan");
         System.out.println("Management Infortion Tecnology");
-        System.out.println("RUST");
+
     }
 
 
