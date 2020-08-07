@@ -7,7 +7,10 @@ import java.util.Scanner;
 public class Exercise1 {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+
+    Scanner scanner = new Scanner(System.in);
+
+
         System.out.print("number 1: ");
         double b1 = scanner.nextDouble();
         System.out.print("number 2: ");
