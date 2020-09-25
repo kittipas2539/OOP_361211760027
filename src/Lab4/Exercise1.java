@@ -16,11 +16,11 @@ public class Exercise1 {
         int s = scanner.nextInt();
 
         switch (s) {
-            case 1:findAreaRec();
+            case 1://findAreaRec();
             break;
-            case 2:findAreaRec();
+            case 2://findAreaRec();
             break;
-            case 3:findAreaRec();
+            case 3://findAreaRec();
             break;
             default:System.out.println("Please, select 1-3.thank.");
         }
@@ -58,7 +58,7 @@ public class Exercise1 {
     }
 
     private static void findAreaRec2(){
-        Scanner sc = new Scanner(System.in)
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter width");
         double x = sc.nextInt();
         System.out.print("Enter lenght");
